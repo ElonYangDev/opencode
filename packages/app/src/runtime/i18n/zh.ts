@@ -257,7 +257,7 @@ export const dict = {
   "prompt.toast.uploadFailed.title": "上传失败",
   "prompt.toast.modelAgentRequired.title": "请选择智能体和模型",
   "prompt.toast.modelAgentRequired.description": "发送提示前请先选择智能体和模型。",
-  "prompt.toast.worktreeCreateFailed.title": "创建工作区失败",
+  "prompt.toast.worktreeCreateFailed.title": "创建工作树失败",
   "prompt.toast.sessionCreateFailed.title": "创建会话失败",
   "prompt.toast.shellSendFailed.title": "发送 shell 命令失败",
   "prompt.toast.commandSendFailed.title": "发送命令失败",
@@ -292,7 +292,7 @@ export const dict = {
   "dialog.project.edit.icon.alt": "项目图标",
   "dialog.project.edit.color": "颜色",
   "dialog.project.edit.color.select": "选择颜色：{{color}}",
-  "dialog.project.edit.worktree.startup": "工作区启动脚本",
+  "dialog.project.edit.worktree.startup": "工作树启动脚本",
   "dialog.project.edit.worktree.startup.placeholder": "例如 bun install",
 
   "dialog.usageExceeded.dontShowAgain": "不再显示",
@@ -709,7 +709,7 @@ export const dict = {
 
   "home.projects.all": "所有项目",
   "session.view.select": "课次视图",
-  "session.background.moveRunning": "移至背景",
+  "session.background.moveRunning": "移至后台",
   "session.timeline.working": "工作中",
   "session.websearch.title": "第三方网页搜索",
   "session.websearch.description": "选择搜索提供商代理用于搜索网页",

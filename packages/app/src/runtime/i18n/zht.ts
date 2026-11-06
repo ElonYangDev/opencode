@@ -278,7 +278,7 @@ export const dict = {
   "dialog.project.edit.color": "顏色",
   "dialog.project.edit.color.select": "選擇{{color}}顏色",
 
-  "dialog.project.edit.worktree.startup": "工作區啟動腳本",
+  "dialog.project.edit.worktree.startup": "工作樹啟動腳本",
   "dialog.project.edit.worktree.startup.placeholder": "例如 bun install",
   "dialog.usageExceeded.dontShowAgain": "不再顯示",
 
